@@ -58,6 +58,7 @@ The repository is empty. Door List needs a minimal, runnable foundation that pre
 - `npm run dev` + HTTP probe: `next dev` started cleanly and returned HTTP 200 on `/` with all four required elements and no default Next.js remnants.
 - Independent verification (`research` subagent): PASS across scaffold configuration, source code, and `.next/server/app/index.html`.
 - Review/RDD state: `disabled/unmanaged` (`receipt-driven development: off`).
+- Work-unit commit: `2a449c5` (`feat: scaffold door list event landing page`) on `feat/door-list-landing`.
 - Engram mirror (`odd/door-list-landing/tasks`): pending (Engram MCP tools unavailable in current runtime session).
 
 ## Next step
